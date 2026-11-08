@@ -1,0 +1,6 @@
+{
+  "name": "Kroma Luxury E-Commerce",
+  "description": "A modern, premium architectural e-commerce store with curated design goods, instant search, dynamic filters, and persistent bag and wishlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
